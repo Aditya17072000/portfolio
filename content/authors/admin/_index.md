@@ -175,4 +175,8 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Backend Software Engineer with over 2 years of experience in building scalable microservices and
+automation platforms. Proficient in Java, FastAPI, Kafka, Docker, and Azure cloud deployments. At
+Ola Electric, contributed to EV cloud systems including document management and OMS integration.
+Currently at BlueYonder, leading backend automation and deployment efforts for cross-service
+communication frameworks. Passionate about building clean, efficient, and reliable backend infrastructure.
