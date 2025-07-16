@@ -68,13 +68,13 @@ work:
     summary: |2-
       Responsibilities include:
       - Designed a transformation framework to convert host inputs into service-specific formats (TMS, WMS, OMS),
-streamlining cross-service communication.
+        streamlining cross-service communication.
       - Built a FastAPI-based backend to automate YAML customization upgrades, reducing manual turnaround from 3
-days to under 10 minutes.
+        days to under 10 minutes.
       - Configured and maintained Kafka and ActiveMQ for robust message brokering across staging and production
-environments.
+        environments.
       - Containerized microservices and deployed them to Azure (Strato) using Docker and Rancher, ensuring high
-availability.
+        availability.
   - position: Software Development Engineer - 1 
     company_name: Ola Electric
     company_url: ''
@@ -84,11 +84,11 @@ availability.
     summary: |
       Responsibilities include:
       - Developed document upload services integrated into EV cloud backend to support OTA updates for Ola
-scooters.
+        scooters.
       - Led backend API development for OMS integration with the consumer mobile app, optimizing backend-frontend
-communication.
+        communication.
       - Collaborated with architects and QA to implement a microservice-based design using Spring Boot and RESTful
-APIs.
+        APIs.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
