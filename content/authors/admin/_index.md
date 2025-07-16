@@ -67,9 +67,14 @@ work:
     date_end: ''
     summary: |2-
       Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Designed a transformation framework to convert host inputs into service-specific formats (TMS, WMS, OMS),
+streamlining cross-service communication.
+      - Built a FastAPI-based backend to automate YAML customization upgrades, reducing manual turnaround from 3
+days to under 10 minutes.
+      - Configured and maintained Kafka and ActiveMQ for robust message brokering across staging and production
+environments.
+      - Containerized microservices and deployed them to Azure (Strato) using Docker and Rancher, ensuring high
+availability.
   - position: Software Development Engineer - 1 
     company_name: Ola Electric
     company_url: ''
@@ -78,9 +83,12 @@ work:
     date_end: 2023-04-10
     summary: |
       Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Developed document upload services integrated into EV cloud backend to support OTA updates for Ola
+scooters.
+      - Led backend API development for OMS integration with the consumer mobile app, optimizing backend-frontend
+communication.
+      - Collaborated with architects and QA to implement a microservice-based design using Spring Boot and RESTful
+APIs.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
