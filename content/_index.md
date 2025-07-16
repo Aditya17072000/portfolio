@@ -24,7 +24,7 @@ sections:
         color: black
         image:
           # Add your image background to `assets/media/`.
-          filename: subtle-prism.svg
+          filename: vanishing-stripes.svg
           filters:
             brightness: 1.0
           size: cover
