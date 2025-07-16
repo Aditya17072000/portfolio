@@ -64,7 +64,7 @@ work:
     company_url: ''
     company_logo: ''
     date_start: 2024-01-15
-    date_end: Present
+    date_end: ''
     summary: |2-
       Responsibilities include:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
