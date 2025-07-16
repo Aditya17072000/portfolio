@@ -65,7 +65,7 @@ work:
     company_logo: ''
     date_start: 2024-01-15
     date_end: ''
-    summary: |2-
+    summary: |
       Responsibilities include:
       - Designed a transformation framework to convert host inputs into service-specific formats (TMS, WMS, OMS),
         streamlining cross-service communication.
