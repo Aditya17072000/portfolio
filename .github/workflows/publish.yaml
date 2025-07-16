@@ -57,6 +57,7 @@ jobs:
       uses: actions/upload-pages-artifact@v3
       with:
         path: ./public
+        retention-days: 1
 
   # Deploy website to GitHub Pages hosting
   deploy:
