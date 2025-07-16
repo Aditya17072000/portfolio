@@ -44,55 +44,38 @@ interests:
   - Problem Solving
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: B.tech Computer Science
+    institution: National Institute of Technology, Rourkela
+    date_start: 2018-07-20
+    date_end: 2022-06-01
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.8/4.0
+      GPA: 8.06/10
 
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Data Structure and Algorithm
+      - Object oriented Programming
+      - Design and analysis of Algorithm
+      - Operating System
+      - System Design
+
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
+  - position: Software Engineer
+    company_name: BlueYonder (via Valiance Analystics)
     company_url: ''
     company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
+    date_start: 2024-01-15
+    date_end: Present
     summary: |2-
       Responsibilities include:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
+  - position: Software Development Engineer - 1 
+    company_name: Ola Electric
     company_url: ''
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2022-07-06
+    date_end: 2023-04-10
     summary: |
       Responsibilities include:
       - Migrated infrastructure to a new data center
@@ -175,8 +158,4 @@ awards:
 
 ## About Me
 
-Backend Software Engineer with over 2 years of experience in building scalable microservices and
-automation platforms. Proficient in Java, FastAPI, Kafka, Docker, and Azure cloud deployments. At
-Ola Electric, contributed to EV cloud systems including document management and OMS integration.
-Currently at BlueYonder, leading backend automation and deployment efforts for cross-service
-communication frameworks. Passionate about building clean, efficient, and reliable backend infrastructure.
+Backend Software Engineer with over 2 years of experience in building scalable microservices and automation platforms. Proficient in Java, FastAPI, Kafka, Docker, and Azure cloud deployments. At Ola Electric, contributed to EV cloud systems including document management and OMS integration. Currently at BlueYonder, leading backend automation and deployment efforts for cross-service communication frameworks. Passionate about building clean, efficient, and reliable backend infrastructure.
